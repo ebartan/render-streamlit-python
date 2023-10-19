@@ -40,4 +40,4 @@ tzlocal
 urllib3
 validators
 watchdog
-zipp
+streamlit-extras
