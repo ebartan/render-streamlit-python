@@ -1,13 +1,6 @@
 import streamlit as st
 import pandas as pd
-from streamlit_extras.colored_header import colored_header 
 
-
-colored_header(
-        label="My New Pretty Colored Header",
-        description="This is a description",
-        color_name="violet-70",
-    )
 st.caption('Hi 👋, I am ebartan - A LLM Resercher & No-code & Full Stack Developer From Yalikavak/Bodrum/Turkey')
 st.write("""
 # Eray Bartan
