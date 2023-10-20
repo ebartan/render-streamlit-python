@@ -52,7 +52,7 @@ st-annotated-text
 streamlit
 streamlit-camera-input-live
 streamlit-embedcode
-streamlit-extras
+streamlit-extras==0.3.4
 streamlit-faker
 streamlit-image-coordinates
 streamlit-keyup
