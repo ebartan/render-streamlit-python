@@ -45,7 +45,6 @@ PyYAML
 referencing
 requests
 rich
-rpds-py
 six
 smmap
 soupsieve
