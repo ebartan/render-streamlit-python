@@ -55,6 +55,7 @@ streamlit-embedcode
 streamlit-faker
 streamlit-image-coordinates
 streamlit-keyup
+streamlit_lottie
 streamlit-toggle-switch
 streamlit-vertical-slider
 tenacity
