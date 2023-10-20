@@ -50,6 +50,7 @@ smmap
 soupsieve
 st-annotated-text
 streamlit
+streamlit-extras
 streamlit-camera-input-live
 streamlit-embedcode
 streamlit-faker
