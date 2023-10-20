@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 from streamlit_lottie import st_lottie
+from typing_extensions import Literal
 
 def load_lottieurl(url: str):
     r = requests.get(url)
