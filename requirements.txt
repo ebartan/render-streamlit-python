@@ -51,7 +51,7 @@ soupsieve
 st-annotated-text
 streamlit
 streamlit-camera-input-live
-streamlit-card
+streamlit-card==0.0.61
 streamlit-embedcode
 streamlit-extras
 streamlit-faker
